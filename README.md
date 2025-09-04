@@ -51,11 +51,9 @@ Config
 ---
 
 ## 🎥 Tutorial Video
+ NOW you can access the executable website project here :
+   live execution video  :   https://drive.google.com/file/d/1fGbSA_TJMncu1f_CK2u02qyZD6k6pNzO/view?usp=sharing
 
-Add your video link here:  
-**[Your YouTube Tutorial](https://your-video-link.com)**  
-
----
 
 ## 👨‍💻 Author
 
